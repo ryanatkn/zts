@@ -8,3 +8,4 @@ coming soon
 
 - design for code generation
 - no inference but improved DX
+- optimal runtime characteristics, fine-grained control over outputs can adapt to each situation
