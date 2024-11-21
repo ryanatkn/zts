@@ -8,6 +8,6 @@ coming soon
 
 - need a good source of truth
 - design for code generation - types, parsers, serializers, web APIs, etc
-- no inference but improved DX (I think, TBD)
+- compared to zod/valibot/etc, no inference but improved DX (I think at least in many, TBD)
 - optimal runtime characteristics - you get fine-grained control over outputs and can adapt to each situation
 - full-fidelity unlike e.g. JSON Schema, can parse/validate/transform/preproc/etc with arbitrary async code
