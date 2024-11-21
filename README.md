@@ -1,6 +1,6 @@
 # @ryanatkn/zts
 
-> schema library for typescript 🧱 [zts.ztack.net](https://zts.ztack.net/)
+> typescript schema library for codegen 🧱 [zts.ztack.net](https://zts.ztack.net/)
 
 coming soon
 
@@ -9,3 +9,4 @@ coming soon
 - design for code generation
 - no inference but improved DX
 - optimal runtime characteristics, fine-grained control over outputs can adapt to each situation
+- full-fidelity validations can parse and validate with arbitrary async TypeScript

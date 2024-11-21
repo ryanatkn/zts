@@ -6,7 +6,7 @@ import type {Src_Json} from '@ryanatkn/gro/src_json.js';
 export const package_json = {
 	name: '@ryanatkn/zts',
 	version: '0.0.1',
-	description: 'schema library for typescript',
+	description: 'typescript schema library for codegen',
 	glyph: '🧱',
 	logo: 'logo.svg',
 	logo_alt: 'a friendly pixelated spider facing you',
