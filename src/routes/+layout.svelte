@@ -22,7 +22,7 @@
 </script>
 
 <svelte:head>
-	<title>@ryanatkn/fuz_template</title>
+	<title>@ryanatkn/zts</title>
 </svelte:head>
 
 <svelte:body
