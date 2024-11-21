@@ -8,6 +8,6 @@ coming soon
 
 - need a good source of truth
 - design for code generation - types, parsers, serializers, web APIs, etc
-- no inference but improved DX
+- no inference but improved DX (I think, TBD)
 - optimal runtime characteristics, fine-grained control over outputs can adapt to each situation
 - full-fidelity unlike e.g. JSONSchema, can parse/validate/transform/etc with arbitrary async code
