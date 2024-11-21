@@ -6,7 +6,8 @@ coming soon
 
 ## Motivation
 
-- design for code generation
+- need a good source of truth
+- design for code generation - types, parsers, serializers, web APIs, whatever
 - no inference but improved DX
 - optimal runtime characteristics, fine-grained control over outputs can adapt to each situation
-- full-fidelity validations can parse and validate with arbitrary async TypeScript
+- full-fidelity unlike e.g. JSONSchema, can parse/validate/transform/etc with arbitrary async code
